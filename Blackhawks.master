@@ -85,7 +85,7 @@
         <br />
 
         <p class="footer">         
-            @ Site Developed for Software Design and Development MSCI3300, Univeristy of Iowa 2014.
+            @ Site Developed for Software Design and Development MSCI3300, Univeristy of Iowa 2014. - &nbsp; <asp:Label ID="lbl_date" runat="server" Text="Label"></asp:Label> &nbsp; <asp:Label ID="lbl_time" runat="server" Text="Label"></asp:Label>
         </p>          
     </div>
     <!-- jQuery Version 1.11.1 -->
